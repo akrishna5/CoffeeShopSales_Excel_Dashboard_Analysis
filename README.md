@@ -3,8 +3,12 @@
 
 ### Microsoft Excel | Dashboard | Pivot Tables | Power Query Editor
 
-- Sheet-1: Data
-- Sheet-2: Pivot Tables
-- Sheet-3: Dashboard
+- Sheet-1: Cleaned Data
 
+- Sheet-2: Pivot Tables
+  
+![screenshot](pivottables.png)
+
+- Sheet-3: Dashboard
+  
 ![screenshot](dashboard.png)
